@@ -1,0 +1,5 @@
+
+pyTelegramBotAPI==4.15.4
+openai==1.14.3
+pydub==0.25.1
+requests==2.31.0
